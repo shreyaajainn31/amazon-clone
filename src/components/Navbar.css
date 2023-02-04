@@ -9,12 +9,11 @@
 }
 .amazon-logo{
     width: 100px;
-    object-fit: contain;
+    height: 100px;
 
 }
 ul{
     justify-content: space-evenly;
-    ;
 }
 .items input{
     width: 50rem;
@@ -41,4 +40,9 @@ li{
     align-items: center;
     margin-left: 10rem;
     margin-bottom:6rem;
+}
+
+.items a {
+    text-decoration: none;
+    color: white;
 }
