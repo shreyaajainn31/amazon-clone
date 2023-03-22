@@ -36,7 +36,7 @@ li{
     color:black;
 }
 .search-container{
-    display: inline-flex;
+    display: inline-block;
     align-items: center;
     margin-left: 10rem;
     margin-bottom:6rem;
