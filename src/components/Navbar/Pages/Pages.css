@@ -1,8 +1,21 @@
-.img {
-    height: 15cm;
-    width:100%;
-}
-
-.products li{
-    margin-bottom: 10px;
-}
+.background-image {
+    background-image: url('../images/home.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .image-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .home-text {
+    background-color: rgba(255, 255, 255, 0.7);
+    color: #000;
+    padding: 20px;
+    text-align: center;
+  }
+  
